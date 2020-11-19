@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+
+html {
+    background-color: rgba(253, 237, 237, 0.808);
+}
+h1 {
+    font-family: 'Inconsolata';
+    font-weight: 300;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Inconsolata';
+    font-weight: 300;
+    font-size: 80px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.section1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column ;
+}
+
+.section2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column ;
+}
