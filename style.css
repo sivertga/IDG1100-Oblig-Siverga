@@ -3,7 +3,8 @@
 
 
 html {
-    background-color: rgba(253, 237, 237, 0.808);
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(245, 234, 234));
+    
 }
 h1 {
     font-family: 'Inconsolata';
@@ -17,7 +18,7 @@ h2 {
     font-size: 80px;
 }
 
-p {
+p, code, ol{
     font-family: 'Lato', sans-serif;
     font-weight: 400;
 }
